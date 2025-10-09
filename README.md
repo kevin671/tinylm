@@ -1,1 +1,1 @@
-# atoms-of-intelligence
+# Kogoro
